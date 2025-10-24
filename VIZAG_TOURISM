@@ -60,7 +60,7 @@
                     <li>Vizag is also known as a major tourist destination with hordes of tourists thronging this beautiful city of Andhra Pradesh every year.</li>
                     <li>Once ruled by Ashoka, Andhra kings of Vengi, Chalukyas and Pallavas; this city offers the best of both the worlds - ancient as well as modern.</li>
                     <li>
-                        <p>The city of Vizag offers umpteen numbers of options for the tourists with Rama Krishna beach, Rushikonda beach, <a href="/gangavaram-beach-vizag" target="_blank">Gangavaram beach</a>, <a href="/yarada-beach-vizag" target="_blank">Yarada beach</a>, <a href="/bheemunipatnam-beach-vizag" target="_blank">Bheemili beach</a>, Borra Caves, <a href="/kailasagiri-park-vizag" target="_blank">Kailasagiri</a>, Indira Gandhi Zoological Park, <a href="/simhachalam-temple-vizag" target="_blank">Simhachalam temple</a>, Submarine museum, Erra Matti dibbalu, and Araku valley being some of the most popular sightseeing places here.</p>
+                        <p>The city of Vizag offers umpteen numbers of options for the tourists with Rama Krishna beach, Rushikonda beach, <a href="https://en.wikipedia.org/wiki/Gangavaram,_Visakhapatnam" target="_blank">Gangavaram beach</a>, <a href="https://en.wikipedia.org/wiki/Yarada_Beach" target="_blank">Yarada beach</a>, <a href="https://en.wikipedia.org/wiki/Bheemili_Beach" target="_blank">Bheemili beach</a>, Borra Caves, <a href="https://en.wikipedia.org/wiki/Kailasagiri" target="_blank">Kailasagiri</a>, Indira Gandhi Zoological Park, <a href="https://en.wikipedia.org/wiki/Varaha_Lakshmi_Narasimha_temple,_Simhachalam" target="_blank">Simhachalam temple</a>, Submarine museum, Erra Matti dibbalu, and Araku valley being some of the most popular sightseeing places here.</p>
                     </li>
                 </ul>
                 <div>
@@ -1823,11 +1823,10 @@
 
         </div>
     </div>
-    <script type="text/javascript" src="https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/js/ccbp-ui-kit.js"></script>
+    <script type="text/javascript" src="https://d2clawv67efefq.cloudfront.net/ccbp-static-website/js/ccbp-ui-kit.js"></script>
 </body>
 
 </html>
-
 
 <!--CSS CODE BEGINS-->
 @import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
@@ -2723,4 +2722,5 @@
 .cookies {
     margin-left: 150px;
     margin-top: 50px;
+
 }
